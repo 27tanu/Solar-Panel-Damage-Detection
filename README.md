@@ -3,16 +3,15 @@ This project is a deep learning-based solution to detect damage in solar panels 
 
 Table of Contents
 
-•	Introduction
-•	Features
-•	Data Collection and Annotation
-•	Models Used
-•	Usage
-•	Results
-•	Deployment
-•	Screenshots of detection
-•	Future Improvements
-•	Acknowledgments
+1. Introduction
+2. Features
+3.	Data Collection and Annotation
+4.	Models Used
+5.	Results
+6.	Deployment
+7.	Screenshots of detection
+8.	Future Improvements
+9.	Acknowledgments
 
 1.	Introduction
 The goal of this project is to accurately detect various types of damages in solar panels, including dusty, physical damage, electrical damage, bird droppings, and more. Early detection of such issues can help in maintaining solar panel efficiency and preventing further deterioration.
