@@ -55,7 +55,8 @@ Deployed using Streamlit.
  
 
 7.	Screenshots of Detection
- ![image](https://github.com/user-attachments/assets/d15e301e-32d1-4cae-a4ae-075a84b2b76e)
+ ![image](https://github.com/user-attachments/assets/1b6a4476-fbf6-45e6-b834-18af244f037d)
+
 ![image](https://github.com/user-attachments/assets/5deda1af-7855-4176-92a0-f38cd29694d2)
 ![image](https://github.com/user-attachments/assets/c747cf7c-2fbd-4365-b160-afd24ab73c72)
 
