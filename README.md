@@ -47,12 +47,19 @@ mAP@0.5: Evaluates model accuracy at 50% IoU
 mAP@0.5:0.95: Average precision across multiple IoU thresholds for a more robust evaluation
 Inference time: Measured the speed of each model for real-time use cases
 Detailed performance results are included in the results folder.
+
 6.	Deployment
 Deployed using Streamlit.
+![image](https://github.com/user-attachments/assets/92caa9d6-8978-4a4c-a5ce-1622fc5109a4)
+
  
 
 7.	Screenshots of Detection
- 
+ ![image](https://github.com/user-attachments/assets/d15e301e-32d1-4cae-a4ae-075a84b2b76e)
+![image](https://github.com/user-attachments/assets/5deda1af-7855-4176-92a0-f38cd29694d2)
+![image](https://github.com/user-attachments/assets/c747cf7c-2fbd-4365-b160-afd24ab73c72)
+
+
  
 
  
