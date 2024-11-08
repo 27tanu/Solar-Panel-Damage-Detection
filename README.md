@@ -2,6 +2,7 @@
 This project is a deep learning-based solution to detect damage in solar panels using object detection models. We implemented various versions of the YOLO (You Only Look Once) model, including YOLOv5, YOLOv7, YOLOv8, and YOLOv9, to identify defects in solar panels, with images annotated using Roboflow.
 
 Table of Contents
+
 •	Introduction
 •	Features
 •	Data Collection and Annotation
